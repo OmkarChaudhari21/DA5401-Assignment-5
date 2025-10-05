@@ -1,5 +1,5 @@
 # DA5401-Assignment-5
-# 🧬 Manifold Learning on Yeast Gene Expression Data  
+# Manifold Learning on Yeast Gene Expression Data  
 *DA5401 Assignment – Visualizing Multi-Label Structures*
 
 
