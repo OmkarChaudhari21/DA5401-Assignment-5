@@ -59,13 +59,4 @@ The key goals are to:
 .
 ├── DA5401_A5_manifold.ipynb     #  Main Jupyter notebook (annotated, all code + markdown)
 ├── README.md                    #  This file
-├── figs/                        #  Saved plots for each stage of analysis
-│   ├── tsne_p30.png
-│   ├── tsne_p30_dbscan_ambiguous.png
-│   ├── tsne_p30_lof_outliers.png
-│   ├── tsne_p30_mixing.png
-│   ├── isomap_k5_10_20.png
-│   └── isomap_k10.png
-└── data/
-    └── yeast.arff              #  Dataset (ARFF format)
 
